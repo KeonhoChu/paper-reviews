@@ -9,6 +9,12 @@
   <img src="https://img.shields.io/github/stars/KeonhoChu/paper-reviews?style=for-the-badge&color=yellow"/>
 </p>
 
+<p align="center">
+  <a href="https://star-history.com/#KeonhoChu/paper-reviews&Date">
+    <img src="https://api.star-history.com/svg?repos=KeonhoChu/paper-reviews&type=Date" alt="Star History Chart" width="600">
+  </a>
+</p>
+
 ---
 
 ## ✨ Overview
