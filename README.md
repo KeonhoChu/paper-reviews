@@ -1,0 +1,37 @@
+# 📚 Paper Reviews
+
+논문을 읽고 리뷰하는 저장소입니다.
+
+## 📖 목적
+
+- 최신 연구 논문 읽기 및 분석
+- 핵심 내용 정리 및 이해
+- 구현 가능한 아이디어 발굴
+- 지식 공유 및 토론
+
+## 📂 구조
+
+```
+paper-reviews/
+├── reviews/          # 논문 리뷰 마크다운 파일
+├── summaries/        # 짧은 요약 정리
+└── implementations/  # 논문 구현 코드
+```
+
+## 📝 리뷰 방법
+
+1. Issues에서 읽고 싶은 논문 제안
+2. 논문을 읽고 `reviews/` 폴더에 리뷰 작성
+3. 핵심 내용을 `summaries/`에 정리
+
+## 🏷️ 주요 분야
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Natural Language Processing
+- Reinforcement Learning
+
+---
+
+**Note:** 이 저장소는 개인 학습 및 연구 목적으로 사용됩니다.
