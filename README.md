@@ -1,4 +1,4 @@
-<h1 align="center">📚 Paper Reviews </h1>
+<h1 align="center">PRU (Paper Reviews with U) </h1>
 <p align="center">
  
   <a href="https://github.com/KeonhoChu/paper-reviews/issues">
@@ -7,8 +7,6 @@
   <img src="https://img.shields.io/github/issues/KeonhoChu/paper-reviews?style=for-the-badge&color=orange"/>
   <img src="https://img.shields.io/github/stars/KeonhoChu/paper-reviews?style=for-the-badge&color=yellow"/>
 </p>
-
----
 
 <p align="center">
   <a href="https://star-history.com/#KeonhoChu/paper-reviews&Date">
