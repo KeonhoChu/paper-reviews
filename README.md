@@ -1,7 +1,6 @@
-
 <h1 align="center">📚 Paper Reviews by <a href="https://github.com/KeonhoChu">Keonho Chu</a></h1>
 <p align="center">
-  <i>AI · LLM · GraphRAG · Knowledge Graph · Deep Learning</i><br/>
+ 
   <a href="https://github.com/KeonhoChu/paper-reviews/issues">
     <img src="https://img.shields.io/badge/📄_View_Issues-Open_Reviews-blue?style=for-the-badge&logo=github"/>
   </a>
@@ -9,13 +8,22 @@
   <img src="https://img.shields.io/github/stars/KeonhoChu/paper-reviews?style=for-the-badge&color=yellow"/>
 </p>
 
+---
+
 <p align="center">
   <a href="https://star-history.com/#KeonhoChu/paper-reviews&Date">
-    <img src="https://api.star-history.com/svg?repos=KeonhoChu/paper-reviews&type=Date" alt="Star History Chart" width="600">
+    <picture>
+      <!-- 🌙 Dark mode -->
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=KeonhoChu/paper-reviews&type=Date&theme=dark" />
+      <!-- 🌞 Light mode -->
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=KeonhoChu/paper-reviews&type=Date" />
+      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=KeonhoChu/paper-reviews&type=Date" width="600" />
+    </picture>
   </a>
 </p>
 
 ---
+
 
 ## ✨ Overview
 > 매일 논문을 읽고, 정리하고, 토론하기 위한 개인 논문 리뷰 아카이브입니다.  
