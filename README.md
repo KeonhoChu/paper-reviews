@@ -1,4 +1,4 @@
-<h1 align="center">📚 Paper Reviews by <a href="https://github.com/KeonhoChu">Keonho Chu</a></h1>
+<h1 align="center">📚 Paper Reviews </h1>
 <p align="center">
  
   <a href="https://github.com/KeonhoChu/paper-reviews/issues">
