@@ -24,14 +24,6 @@ paper-reviews/
 2. 논문을 읽고 `reviews/` 폴더에 리뷰 작성
 3. 핵심 내용을 `summaries/`에 정리
 
-## 🏷️ 주요 분야
-
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Natural Language Processing
-- Reinforcement Learning
-
 ---
 
 **Note:** 이 저장소는 개인 학습 및 연구 목적으로 사용됩니다.
